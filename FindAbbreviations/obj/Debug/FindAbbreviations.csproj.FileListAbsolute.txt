@@ -1,0 +1,6 @@
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\bin\Debug\FindAbbreviations.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\bin\Debug\FindAbbreviations.exe
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\bin\Debug\FindAbbreviations.pdb
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\obj\Debug\FindAbbreviations.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\obj\Debug\FindAbbreviations.exe
+c:\users\igor\documents\visual studio 2015\Projects\FindAbbreviations\FindAbbreviations\obj\Debug\FindAbbreviations.pdb
